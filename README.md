@@ -74,6 +74,7 @@ Train the following models:
 ## Results Summary
 
 ### EmoSounds Dataset
+![EmoSoundResults](./EmoSoundResults.jpeg)
 
 | Model                           | Train F1 | Train Accuracy | Test F1 | Test Accuracy |
 |---------------------------------|----------|----------------|---------|---------------|
@@ -82,6 +83,7 @@ Train the following models:
 | XGBoost (Before FS)             | 0.9907   | 0.9944         | 0.5101  | 0.7000        |
 
 ### IADSED Dataset
+![IADSED_Results](./IADSED_Results.jpeg)
 
 | Model                           | Train F1 | Train Accuracy | Test F1 | Test Accuracy |
 |---------------------------------|----------|----------------|---------|---------------|
