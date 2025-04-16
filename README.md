@@ -76,20 +76,9 @@ Train the following models:
 ### EmoSounds Dataset
 ![EmoSoundResults](./EmoSoundResults.jpeg)
 
-| Model                           | Train F1 | Train Accuracy | Test F1 | Test Accuracy |
-|---------------------------------|----------|----------------|---------|---------------|
-| Logistic Regression (Before FS) | 0.5671   | 0.6194         | 0.4945  | 0.5833        |
-| Random Forest (Before FS)       | 0.9263   | 0.9333         | 0.5651  | 0.6917        |
-| XGBoost (Before FS)             | 0.9907   | 0.9944         | 0.5101  | 0.7000        |
 
 ### IADSED Dataset
 ![IADSED_Results](./IADSED_Results.jpeg)
-
-| Model                           | Train F1 | Train Accuracy | Test F1 | Test Accuracy |
-|---------------------------------|----------|----------------|---------|---------------|
-| Logistic Regression (Before FS) | 0.6700   | 0.7027         | 0.6060  | 0.6505        |
-| Random Forest (Before FS)       | 0.8879   | 0.8973         | 0.5984  | 0.6613        |
-| XGBoost (Before FS)             | 0.9868   | 0.9874         | 0.5459  | 0.6505        |
 
 ---
 
